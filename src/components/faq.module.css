@@ -1,0 +1,25 @@
+.faq {
+    padding: 10px;
+    background-color: #111;
+    margin-bottom: 10px;
+}
+.faq div {
+    display: flex;
+    justify-content: space-between;
+}
+.faq h2 {
+    font-weight: 500;
+}
+.faq p {
+    opacity: 0.8;
+    letter-spacing: 0.6px;
+    margin-top: 10px;
+}
+.faq button {
+    width: 30px;
+    height: 30px;
+    background-color: orange;
+    border: none;
+    font-size: 25px;
+    cursor: pointer;
+}
